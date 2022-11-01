@@ -1,0 +1,5 @@
+https://cas-uds.grenet.fr/login?service=https%3A%2F%2Fintranet.univ-smb.fr%2F
+myLogin
+myPassword
+
+# CREER PAR RANJITH APPASSAMY ;) 
